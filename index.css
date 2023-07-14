@@ -1,0 +1,96 @@
+.client-logo-ilyos{
+    display: flex;
+    width: 1200.572px;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 65px;    
+}
+.cta-ilyos{
+    background-image: url(./images/Group\ 2.png);
+    width: 1199.996px;
+    height: 412.678px;
+}
+.cta-ilyos .txt{
+    width: 505.068px;
+    height: 76.23px;
+    color: #FFF;
+    text-align: center;
+    font-family: Montserrat;
+    font-size: 30px;
+    font-weight: 600;
+    padding-top: 126px;
+    margin: 86px auto;
+}
+.cta-ilyos button{
+    display: flex;
+    padding: 17px 34px;
+    align-items: flex-start;
+    gap: 10px;
+    background-color: #0FE3AF;
+    border: none;
+    margin: 23px auto;
+}
+.about-us1-ilyos{
+    display: flex;
+    width: 1302.451px;
+    align-items: flex-start;
+    gap: 149px;
+    margin: 152px auto;
+}
+.div-one .header{
+    color: #1C1C1C;
+    font-family: Lato;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 142%;
+    letter-spacing: 5.81px;
+    border: 1px solid lightgray;
+    width: 170px;
+}
+.div-one .h1{
+    width: 496.422px;
+    color: #1C1C1C;
+    font-family: Montserrat;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 130%;
+}
+.div-one .txt{
+    width: 498.869px;
+    color: #545454;
+    font-family: Lato;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 142%;
+}
+.div-one button{
+    padding: 17px 41px;
+    background: #0152A8;
+    border: none;
+}
+.div-two .img1{
+    margin-right: 20px;
+}
+.pattern-ilyos hr{
+    width: 1199.996px;
+    height: 1px;
+    background: #DBDBDB;  
+    margin-top: 141px;
+    margin-bottom: 150px;  
+}
+.testimonial-ilyos .nav{
+    color: #1C1C1C;
+    font-family: Lato;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 142%;
+    letter-spacing: 5.81px;
+    text-transform: uppercase;
+    border: 1px solid lightgray;
+    width: 120px;
+    margin: 0 auto;
+}
